@@ -1,0 +1,3 @@
+[submodule "lib-sub/submodule"]
+	path = lib-sub/submodule
+	url = https://github.com/t90884/sub-repo.git
